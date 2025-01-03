@@ -1,0 +1,9 @@
+The payment email has been sent to arrayEmail1@gmail.com from sender@example.com in FORMAL format. The payment amount is 221 DOLLAR.
+The payment email has been sent to arrayEmail2@gmail.com from sender@example.com in FORMAL format. The payment amount is 283 DOLLAR.
+The payment email has been sent to arrayEmail3@gmail.com from sender@example.com in FORMAL format. The payment amount is 351 DOLLAR.
+The payment email has been sent to hashMapEmail2@gmail.com from sender@example.com in FORMAL format. The payment amount is 117 DOLLAR.
+The payment email has been sent to hashMapEmail1@gmail.com from sender@example.com in FORMAL format. The payment amount is 306 DOLLAR.
+The payment email has been sent to hashMapEmail3@gmail.com from sender@example.com in FORMAL format. The payment amount is 166 DOLLAR.
+The payment email has been sent to arrayListEmail1@gmail.com from sender@example.com in FORMAL format. The payment amount is 482 DOLLAR.
+The payment email has been sent to arrayListEmail2@gmail.com from sender@example.com in FORMAL format. The payment amount is 324 DOLLAR.
+The payment email has been sent to arrayListEmail3@gmail.com from sender@example.com in FORMAL format. The payment amount is 369 DOLLAR.
